@@ -14,7 +14,7 @@ subreddits = ["learnprogramming", "webdev", "programming"]
 categories = ["video", "texto", "link", "enquete"]
 
 # Lista de linguagens de programação
-languages = ["Python", "JavaScript", "Java", "Ruby", "Go", "Rust", "Swift", "PHP", "Kotlin", "R", "TypeScript", "C", "Vue","Dockerfile", "Assembly" "CSS","HTML", "React", "Js"]
+languages = ["Python", "JavaScript", "Java", "Ruby", "Go", "Rust", "Swift", "PHP", "Kotlin", "R", "TypeScript", "C", "Vue","Dockerfile", "Assembly" "CSS","HTML", "React", "Js", "React js", "React", "Java script", "Assembly", "JS", "Lua", "Angular", "Flutter", "Julia"]
 
 # Função para determinar o formato do post
 def get_post_format(post):
